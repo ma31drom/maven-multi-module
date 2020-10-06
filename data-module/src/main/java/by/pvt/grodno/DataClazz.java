@@ -7,4 +7,8 @@ public class DataClazz {
 
 	private String value;
 
+	{
+		value = "somehting2";
+	}
+	
 }
